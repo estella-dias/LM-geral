@@ -1,0 +1,46 @@
+.container{
+    background-color: darksalmon;
+    width: 400px;
+
+/*ESTUDOS DE PADDING*/
+
+    /* padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; */
+
+    /* top, right, bottom e left*/
+    /*padding:20px 10px 20px 10px;*/
+
+    /*top bottom - right e left*/
+    /*padding: 20px 10px;*/
+
+    /*TODOS*/
+    padding: 10px;
+
+    /*ESTUDOS DE MARGIN:*/
+    /*margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;*/
+
+    /* top, right, bottom e left */
+    /*margin: 20px 10px 20px 10px;*/
+
+    /*top e bottom - right e left;*/
+    /*margin: 30px 15px;*/
+
+    /*TODOS*/
+    margin: 15px; 
+
+    /* BORDAS */
+    /* tamanho, tipo e cor*/
+    border: 5px solid #999;
+    border-radius: 10px;
+
+
+
+
+
+}
+
